@@ -9,3 +9,4 @@ Live: https://feizai1204123-alt.github.io/wku-campus/  (older versions: real-v1 
 ## CC0 assets used in baked/
 - HDRI: "Kloofendal 48d Partly Cloudy (Pure Sky)", Greg Zaal, Poly Haven (https://polyhaven.com), CC0.
 - Textures: ambientCG (https://ambientcg.com), CC0 – Bricks066, Concrete034, RoofingTiles001, PavingStones128, Grass004, Asphalt026C, Tiles143, Plaster001, MetalPlates013.
+- Trees: leaf and bark textures from "Jacaranda Tree" by Poly Haven (CC0); tree, palm and palm-frond texture made procedurally in Blender for this site.
